@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-
-
-Here are some ideas to get you started:
+I am Akshit Bhatt
 
 - 🔭 I’m currently working on Web Devlopement
 - 🌱 I’m currently learning front-end
